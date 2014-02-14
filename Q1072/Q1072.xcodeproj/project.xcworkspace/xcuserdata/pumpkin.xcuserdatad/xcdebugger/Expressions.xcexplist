@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Dijkstra::Dijkstra(Graph*, int):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "v">
+            </PersistentString>
+            <PersistentString
+               value = "distTo[w]">
+            </PersistentString>
+            <PersistentString
+               value = "distTo[v]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "threshold">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
